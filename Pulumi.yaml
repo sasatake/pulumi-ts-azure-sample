@@ -1,0 +1,3 @@
+name: pulumi-ts-azure-sample
+runtime: nodejs
+description: A minimal Azure TypeScript Pulumi program
